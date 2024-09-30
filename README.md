@@ -17,7 +17,7 @@ The project includes the following features:
    - IntelliJ IDEA (or any Java IDE)
    ### Steps to run:
 1. Clone the repository:
-   git clone https://github.com/lhhuy99/digital-bank-v4.0.0-project
+   git clone [https://github.com/lhhuy99/digital-bank-v4.0.0-project](https://github.com/lhhuy99/digital-bank-v4.0.0-project.git)
 2. Open the project in IntelliJ IDEA.
 3. Run the application:
     - In IntelliJ, open the class Asm04 and run it
